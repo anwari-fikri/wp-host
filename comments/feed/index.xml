@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments on: Hello world!	</title>
-	<atom:link href="https://anwari-fikri.github.io/wp-host/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>https://anwari-fikri.github.io/wp-host/hello-world/</link>
+	Comments for host-on-ghpages	</title>
+	<atom:link href="https://anwari-fikri.github.io/wp-host/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://anwari-fikri.github.io/wp-host/</link>
 	<description></description>
 	<lastBuildDate>Mon, 06 Nov 2023 02:42:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>
-		By: A WordPress Commenter		</title>
+		Comment on Hello world! by A WordPress Commenter		</title>
 		<link>https://anwari-fikri.github.io/wp-host/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>

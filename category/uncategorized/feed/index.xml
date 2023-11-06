@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>host-on-ghpages</title>
-	<atom:link href="https://anwari-fikri.github.io/wp-host/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; host-on-ghpages</title>
+	<atom:link href="https://anwari-fikri.github.io/wp-host/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anwari-fikri.github.io/wp-host/</link>
 	<description></description>
 	<lastBuildDate>Mon, 06 Nov 2023 02:42:39 +0000</lastBuildDate>
